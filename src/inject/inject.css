@@ -10,3 +10,28 @@
 .paywall-abo.blurText {
   filter: none !important;
 }
+
+.premium-bar {
+  position: relative;
+  color: rgba(6, 6, 6, 0);
+}
+.premium-bar::after {
+  content: "Cet article est réservé au hacker de l'internet 😎";
+
+  text-align: center;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+
+  padding: 16px 12px;
+
+  font-family: GraphikCompact;
+  line-height: 1.2;
+  color: #212121;
+
+  background-color: #ffeebc;
+  border-radius: 12px;
+}
