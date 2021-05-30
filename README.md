@@ -14,4 +14,8 @@ Because who likes reading only 5% of an article?
 
 - [x] Le Parisien
 - [ ] L'Équipe
-- [ ] L'Express
+
+Not doable... yet
+- L'Express
+- Le Monde
+- Mediapart
