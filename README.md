@@ -9,3 +9,9 @@ Because who likes reading only 5% of an article?
 - Click `Load Unpacked`
 - Select the `newspawner` folder
 - Pretend you read the news 💅
+
+## Roadmap
+
+- [] Le Parisien
+- [] L'Équipe
+- [] L'Express
