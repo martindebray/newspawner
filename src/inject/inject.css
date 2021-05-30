@@ -1,0 +1,12 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+/* LEPARISIEN */
+
+.piano-paywall {
+  display: none !important;
+}
+.paywall-abo.blurText {
+  filter: none !important;
+}
