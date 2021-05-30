@@ -14,6 +14,9 @@ Because who likes reading only 5% of an article?
 
 - [x] Le Parisien
 - [ ] L'Équipe
+- [ ] Wall Street Journal
+- [ ] Alternative Economic
+- [ ] McKinsey Insights
 
 Not doable... yet
 - L'Express
