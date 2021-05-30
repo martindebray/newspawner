@@ -3,7 +3,6 @@
  **/
 
 /* LEPARISIEN */
-
 .piano-paywall {
   display: none !important;
 }
@@ -34,4 +33,19 @@
 
   background-color: #ffeebc;
   border-radius: 12px;
+}
+
+/* LEQUIPE */
+.Paywall__wrapper {
+  display: none !important;
+}
+
+.homebody,
+.chapterbody {
+  pointer-events: initial !important;
+  overflow: unset !important;
+}
+
+.chapterrightside {
+  overflow: scroll !important;
 }
