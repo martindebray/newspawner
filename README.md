@@ -12,6 +12,6 @@ Because who likes reading only 5% of an article?
 
 ## Roadmap
 
-- [] Le Parisien
-- [] L'Équipe
-- [] L'Express
+- [x] Le Parisien
+- [ ] L'Équipe
+- [ ] L'Express
